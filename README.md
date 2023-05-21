@@ -20,3 +20,4 @@ message length” feature prevents the user from typing more than 80 characters.
 > a function that takes in a string and returns a boolean. This is an impure
 > function that cannot be tested with unit tests.
 
+![Screenshot](./screenshots/sc.png)
